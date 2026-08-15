@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-6980ni.hsteamid.com/sitemap.xml
